@@ -1,4 +1,106 @@
 # Darkboy
+<!-- ANONYMOUS HACKER IMAGE - DARK, MYSTERIOUS -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2d/22/ff/2d22ff79f0e2124ae1ac414f182c87df.gif" width="280" />
+</p>
+
+<!-- HACKER NAME WITH GLITCH EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=%3E+MASUD;%3E+0x4D0x610x730x750x64;%3E+anonymous%3B" />
+</p>
+
+<!-- MATRIX DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+</p>
+
+<!-- WHOAMI SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=600&color=0AFF0A&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Masud+Al+Hasan;%3E+Security+Researcher+%7C+Reverse+Engineer;%3E+Malware+Analyst+%7C+Bug+Bounty+Hunter;%3E+India+%7C+Anonymous+Collective" />
+</p>
+
+<!-- TERMINAL STYLE INFO BOX -->
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│  [*] OS         : Kali Linux / Parrot OS / BlackArch           │
+│  [*] Shell      : ZSH + Oh-My-Zsh + Powerlevel10k              │
+│  [*] Editor     : VS Code / Vim / Sublime Text                 │
+│  [*] Languages  : Python | Java | C | C++ | Bash | ASM(x86/ARM)│
+│  [*] RE Tools   : IDA Pro | Ghidra | x64dbg | Frida | Jadx     │
+│  [*] Specialty  : Android RE | Binary Exploitation | Maldev     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<!-- STATS SECTION (MINIMAL, CLEAN) -->
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masud&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=ffffff&hide_border=true&border_radius=0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masud&theme=dark&background=0a0a0a&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=ffffff&hide_border=true" />
+</p>
+
+<!-- TOP LANGUAGES -->
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masud&layout=compact&theme=dark&bg_color=0a0a0a&title_color=00ff00&text_color=ffffff&hide_border=true&border_radius=0" />
+</p>
+
+<!-- CONTRIBUTION GRAPH (DARK MATRIX) -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud&theme=react-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=00ff00&hide_border=true&area=true&area_color=00ff00" />
+</p>
+
+<!-- SKILLS (ICON ONLY, CLEAN) -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,android,linux,bash,vim,vscode,github,stackoverflow" />
+</p>
+
+<!-- RE SPECIFIC TOOLS -->
+
+<p align="center">
+  <code>IDA Pro</code> ▪ <code>Ghidra</code> ▪ <code>x64dbg</code> ▪ <code>Frida</code> ▪ <code>Apktool</code> ▪ <code>JADX</code> ▪ <code>Radare2</code> ▪ <code>Burp Suite</code> ▪ <code>Wireshark</code> ▪ <code>Metasploit</code>
+</p>
+
+<!-- BADGES (MINIMAL) -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Masud&label=PROFILE+VIEWS&color=00ff00&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Masud?label=FOLLOWERS&style=flat-square&color=00ff00&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/github/stars/Masud?label=STARS&style=flat-square&color=00ff00&labelColor=0a0a0a" />
+</p>
+
+<!-- SOCIALS (ANONYMOUS STYLE) -->
+
+<p align="center">
+  <a href="https://t.me/masud"><img src="https://img.shields.io/badge/▸_TELEGRAM-00ff00?style=for-the-badge&labelColor=0a0a0a&color=00ff00&logo=telegram&logoColor=black" /></a>
+  <a href="https://twitter.com/masud"><img src="https://img.shields.io/badge/▸_TWITTER-00ff00?style=for-the-badge&labelColor=0a0a0a&color=00ff00&logo=x&logoColor=black" /></a>
+  <a href="https://github.com/masud"><img src="https://img.shields.io/badge/▸_GITHUB-00ff00?style=for-the-badge&labelColor=0a0a0a&color=00ff00&logo=github&logoColor=black" /></a>
+  <a href="mailto:masud@anonymous.me"><img src="https://img.shields.io/badge/▸_EMAIL-00ff00?style=for-the-badge&labelColor=0a0a0a&color=00ff00&logo=protonmail&logoColor=black" /></a>
+</p>
+
+<!-- HACKER QUOTE -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20more%20you%20reverse%2C%20the%20more%20you%20understand&author=Masud" />
+</p>
+
+<!-- FOOTER ASCII (ANONYMOUS MASK) -->
+
+<pre align="center">
+    .--.      .--.      .--.      .--.      .--.      .--.
+  .'_:__'.  .'_:__'.  .'_:__'.  .'_:__'.  .'_:__'.  .'_:__'.
+  |  匿名  |  |  匿名  |  |  匿名  |  |  匿名  |  |  匿名  |  |  匿名  |
+  '._____.'  '._____.'  '._____.'  '._____.'  '._____.'  '._____.'
+</pre>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=30&lines=%3E+sudo+rm+-rf+%2F%2A;%3E+Just+kidding+%3B);%3E+We+are+anonymous+%7C+We+are+legion" />
+</p>
+
+<p align="center">
+  <code>root@anonymous:~# ./masud --skills reverse-engineering</code>
+</p>
 <!-- GLOWING NEON BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0a0f0a,100:00ff00&height=200&section=header&text=MASUD&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=40&desc=//%20Reverse%20Engineer%20//%20Malware%20Analyst%20//%20APT%20Hunter&descSize=16&descAlignY=65&descAlign=50&descColor=00ff00" />
@@ -6,7 +108,7 @@
 
 <!-- HACKER TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=0AFF0A&center=true&vCenter=true&multiline=true&width=700&height=70&lines=%24+whoami;%3E+Masud+Al+Hasan+%7C+Security+Researcher;%3E+[Reverse+Engineering+%7C+Bug+Bounty+%7C+Red+Team]" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=0AFF0A&center=true&vCenter=true&multiline=true&width=700&height=70&lines=%24+whoami;%3E+Masud+Al+DARKBOy+%7C+Security+Researcher;%3E+[Reverse+Engineering+%7C+Bug+Bounty+%7C+Red+Team]" />
 </p>
 
 <!-- MATRIX DIVIDER -->
