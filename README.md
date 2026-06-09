@@ -6,7 +6,7 @@
 
 <!-- ANONYMOUS TEXT WITH GLITCH -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=WE+ARE+ANONYMOUS;WE+ARE+LEGION;WE+DO+NOT+FORGET;WE+DO+NOT+FORGIVE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=I+AM+ANONYMOUS;I+GRAY+HACKER;WE+DO+NOT+FORGET;WE+DO+NOT+FORGIVE" />
 </p>
 
 <!-- GLOWING DIVIDER -->
@@ -45,18 +45,6 @@
 </p>
 
 <!-- MATRIX CODE RAIN DIVIDER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/S5Jc1Bc7i7fNW/giphy.gif" width="100%">
-</p>
-
-<!-- SKILLS & TOOLS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,android,linux,bash,vim,vscode" />
-</p>
-
-<p align="center">
-  <code>IDA Pro</code> ▪ <code>Ghidra</code> ▪ <code>x64dbg</code> ▪ <code>Frida</code> ▪ <code>Apktool</code> ▪ <code>JADX</code> ▪ <code>Burp Suite</code>
-</p>
 
 <!-- SOCIALS (ANONYMOUS STYLE) -->
 <p align="center">
@@ -76,19 +64,6 @@
 </p>
 
 <!-- ASCII ANONYMOUS MASK -->
-<pre align="center">
-    .---.        .---.        .---.        .---.
-   /     \      /     \      /     \      /     \
-  |  O_O  |    |  O_O  |    |  O_O  |    |  O_O  |
-  |  (_)  |    |  (_)  |    |  (_)  |    |  (_)  |
-   \     /      \     /      \     /      \     /
-    `---'        `---'        `---'        `---'
-    匿名          匿名          匿名          匿名
-</pre>
-
-<p align="center">
-  <code>root@anonymous:~# ./masud --execute --anonymous</code>
-</p>
 <!-- ANONYMOUS HACKER IMAGE - DARK, MYSTERIOUS -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/2d/22/ff/2d22ff79f0e2124ae1ac414f182c87df.gif" width="280" />
