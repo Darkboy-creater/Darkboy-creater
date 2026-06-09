@@ -1,4 +1,94 @@
-# Darkboy-creater/README.md
+# Darkboy
+<!-- ANONYMOUS IMAGE (TERI PHOTO) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63d88be8-5786-4328-b8f5-92c48dc6023d" width="320" style="border-radius: 50%; border: 2px solid #00ff00; box-shadow: 0 0 20px #00ff00;" />
+</p>
+
+<!-- ANONYMOUS TEXT WITH GLITCH -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=WE+ARE+ANONYMOUS;WE+ARE+LEGION;WE+DO+NOT+FORGET;WE+DO+NOT+FORGIVE" />
+</p>
+
+<!-- GLOWING DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+</p>
+
+<!-- LIVE HACKER TERMINAL ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=400&color=0AFF0A&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%24+whoami;%3E+Anonymous+Hacker;%24+pwd;%3E+/home/anonymous/Masud;%24+ls+-la;%3E+README.md++reverse_tools++malware_samples;%24+./reverse_engineer;%3E+Running+IDA+Pro...;%3E+Analyzing+Android+APK;%3E+Bypass+detected;%3E+Shell+opened+on+target" />
+</p>
+
+<!-- ASCII TERMINAL FRAME -->
+<pre align="center">
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  ANONYMOUS TERMINAL v2.0                                    [root@anonymous] │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  [✓] VPN Connected - 185.220.101.1:443                                       │
+│  [✓] TOR Routing Active - 3 Hops                                           │
+│  [✓] Proxychains Loaded - 5 Proxies                                        │
+│  [✓] MAC Address Spoofed - 00:11:22:33:44:55                               │
+│  [✓] Reverse Shell Ready on Port 4443                                      │
+│                                                                             │
+│  Target: github.com/Masud                                                   │
+│  Status: Profile Hacked ✓                                                   │
+│  Message: "We Are Anonymous"                                                │
+│                                                                             │
+│  [*] Type 'help' for commands                                               │
+└─────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<!-- HACKER STATS -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Masud&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=00ff00&icon_color=00ff00&text_color=00ff00&hide_border=true&border_radius=0" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Masud&theme=dark&background=0a0a0a&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00&hide_border=true" />
+</p>
+
+<!-- MATRIX CODE RAIN DIVIDER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/S5Jc1Bc7i7fNW/giphy.gif" width="100%">
+</p>
+
+<!-- SKILLS & TOOLS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,android,linux,bash,vim,vscode" />
+</p>
+
+<p align="center">
+  <code>IDA Pro</code> ▪ <code>Ghidra</code> ▪ <code>x64dbg</code> ▪ <code>Frida</code> ▪ <code>Apktool</code> ▪ <code>JADX</code> ▪ <code>Burp Suite</code>
+</p>
+
+<!-- SOCIALS (ANONYMOUS STYLE) -->
+<p align="center">
+  <a href="https://t.me/masud"><img src="https://img.shields.io/badge/➤_TELEGRAM-0a0a0a?style=for-the-badge&logo=telegram&logoColor=00ff00&labelColor=0a0a0a&color=00ff00" /></a>
+  <a href="https://github.com/masud"><img src="https://img.shields.io/badge/➤_GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=0a0a0a&color=00ff00" /></a>
+  <a href="https://twitter.com/masud"><img src="https://img.shields.io/badge/➤_TWITTER-0a0a0a?style=for-the-badge&logo=x&logoColor=00ff00&labelColor=0a0a0a&color=00ff00" /></a>
+</p>
+
+<!-- VISITOR BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Masud&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge&labelColor=0a0a0a" />
+</p>
+
+<!-- FOOTER MESSAGE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2500&pause=600&color=00FF00&center=true&vCenter=true&width=600&height=30&lines=%3E+We+are+Anonymous;%3E+We+are+Legion;%3E+Expect+us" />
+</p>
+
+<!-- ASCII ANONYMOUS MASK -->
+<pre align="center">
+    .---.        .---.        .---.        .---.
+   /     \      /     \      /     \      /     \
+  |  O_O  |    |  O_O  |    |  O_O  |    |  O_O  |
+  |  (_)  |    |  (_)  |    |  (_)  |    |  (_)  |
+   \     /      \     /      \     /      \     /
+    `---'        `---'        `---'        `---'
+    匿名          匿名          匿名          匿名
+</pre>
+
+<p align="center">
+  <code>root@anonymous:~# ./masud --execute --anonymous</code>
+</p>
 <!-- ANONYMOUS HACKER IMAGE - DARK, MYSTERIOUS -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/2d/22/ff/2d22ff79f0e2124ae1ac414f182c87df.gif" width="280" />
