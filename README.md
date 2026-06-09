@@ -6,7 +6,7 @@
 
 <!-- ANONYMOUS TEXT WITH GLITCH -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=I+AM+ANONYMOUS;I+GRAY+HACKER;WE+DO+NOT+FORGET;WE+DO+NOT+FORGIVE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=1500&pause=300&color=00FF00&center=true&vCenter=true&width=700&height=70&lines=I+AM+ANONYMOUS;I+AM+GRAY+HACKER;I+DO+NOT+FORGET;WE+DO+NOT+FORGIVE" />
 </p>
 
 <!-- GLOWING DIVIDER -->
@@ -115,17 +115,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masud&theme=react-dark&bg_color=0a0a0a&color=00ff00&line=00ff00&point=00ff00&hide_border=true&area=true&area_color=00ff00" />
 </p>
 
-<!-- SKILLS (ICON ONLY, CLEAN) -->
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,android,linux,bash,vim,vscode,github,stackoverflow" />
-</p>
-
-<!-- RE SPECIFIC TOOLS -->
-
-<p align="center">
-  <code>IDA Pro</code> ▪ <code>Ghidra</code> ▪ <code>x64dbg</code> ▪ <code>Frida</code> ▪ <code>Apktool</code> ▪ <code>JADX</code> ▪ <code>Radare2</code> ▪ <code>Burp Suite</code> ▪ <code>Wireshark</code> ▪ <code>Metasploit</code>
-</p>
 
 <!-- BADGES (MINIMAL) -->
 
